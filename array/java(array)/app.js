@@ -8,5 +8,6 @@ var input = "3"
 var input = "4"
 var input = "5"
 
-var inputs = []
+var inputs = [input]
+console.log(input);
 

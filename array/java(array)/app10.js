@@ -9,6 +9,6 @@
 
 const favcars = ["audi" , "altis.16" , "supra mk4"  , "gtr34"]
 
-favcars.slice("audi")
 
 console.log(favcars)
+
